@@ -5,7 +5,7 @@ slide-number: true
 
 ### 
 highlight: monokai
-autoslide: 5000
+autoslide: 3000
 loop: true
 transition: fade
 charts: true
