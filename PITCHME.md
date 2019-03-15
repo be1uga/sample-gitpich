@@ -29,9 +29,9 @@ Hello world!
 ### Rader Chart
 <canvas data-chart="radar">
 
-    Month, 1月, 2月, 3月, 4月, 5月, 6月, 7月
-    1980, 65, 59, 80, 81, 56, 55, 40
-    2017, 28, 48, 40, 19, 86, 27, 90
+    Month, Spring, Summer, Fall, Winter
+    2000, 10, 20, 30, 100
+    2019, 200, 5, 70, 19, 1
 
 </canvas>
 ---
