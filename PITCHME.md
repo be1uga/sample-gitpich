@@ -4,12 +4,18 @@ This is a sample slide ;)
 
 ---
 
-### Page #2
+### Code Highlight
+
+```
+user = "Colin"
+print("Hello, {} ".format(user))
+```
 
 ---
 
-### Page #3
+### Read sample.py
 
+---?code=sample.py
 ---
 
 ### End
