@@ -8,20 +8,21 @@ This is a sample slide ;)
 - Code Highlight
 - Read a source file
 
+---
+
 ### Code Highlight
 
 ```
 user = "Colin"
 print("Hello, {} ".format(user))
 ```
-@[2](Check how to use the format method)
+@[2](See how to use the format method.)
 
 ---
 
-### Read sample.py
-
+### Read a Source File
 ---?code=sample.py
-Read sample.py
+Hello world!
 ---
 
 ### End
