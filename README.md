@@ -1,4 +1,4 @@
 # sample-gitpich
 
-## How to make it a slide?
+## How is it converted to slides?
 https://gitpitch.com/be1uga/sample-gitpich
