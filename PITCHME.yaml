@@ -1,0 +1,11 @@
+theme: sky
+logo: logo.png
+footnote: "@ 2019 be1uga"
+slide-number: true
+
+### 
+highlight: monokai
+autoslide: 5000
+loop: true
+transition: fade
+charts: true
