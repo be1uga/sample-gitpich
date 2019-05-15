@@ -1,6 +1,6 @@
 ### Hello!
 
-This is a sample slide ;)
+This is a sample slide ;) | Let's see how it works!
 
 ---
 
